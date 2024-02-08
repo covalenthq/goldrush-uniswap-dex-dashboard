@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.covalenthq.com/products/goldrush/" target="_blank">
-    <img alt="GoldRush NFT Gallery UI template" src="https://raw.githubusercontent.com/covalenthq/goldrush-uniswap-dex-dashboard-template/main/static/grk-nft-banner.png" style="max-width: 100%;"/>
+    <img alt="GoldRush Uniswap Dex Dashboard Banner" src="https://raw.githubusercontent.com/covalenthq/goldrush-uniswap-dex-dashboard-template/main/static/grk-dex-banner.png" style="max-width: 100%;"/>
   </a>
   <br/>
   
