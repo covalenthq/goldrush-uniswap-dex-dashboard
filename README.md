@@ -26,7 +26,7 @@ Powered by <span><a href="https://github.com/covalenthq/goldrush-kit">GoldRush K
 
 ## Ready-to-use customizable template
 
-<a href="https://grk-dex-dashboard.vercel.app/">View live template</a>
+<a href="https://goldrush-uniswap-dex-dashboard.vercel.app">View live template</a>
 
 ## One-click deploy
 
