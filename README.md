@@ -52,12 +52,14 @@ Visit GoldRush's [component documentation](https://www.covalenthq.com/docs/unifi
 
 ## Features
 
-- Next.js 13 App Directory
-- Radix UI Primitives
-- Tailwind CSS
-- Icons from [Lucide](https://lucide.dev)
-- Dark mode with `next-themes`
-- Tailwind CSS class sorting, merging and linting.
+- Quick DEX App Development: Accelerate the creation of dapps with rich data.
+- Stunning Designs Fast: Quickly build visually appealing designs with Tailwind CSS.
+- Streamlined Workflow: Simplify development with the power and efficiency of Next.js 13.
+- 7 and 30 day time series for liquidity and trading volume.
+- View tokens and pools on supported DEXs.
+- View DEX transactions, including their type.
+- Account level display shows transactions and positions.
+
 
 
 ## 🤝 Contributing
