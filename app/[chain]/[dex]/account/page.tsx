@@ -58,6 +58,12 @@ export default function Account({ params }: { params: { chain: string, dex: stri
           chain_name={params.chain}
           dex_name={params.dex}
           wallet_address={walletAddress}
+          on_native_explorer_click={(e: { explorers: { url: string | URL | undefined; }[]; })=>{
+            window.open(e.explorers[0].url, '_blank');
+          }}
+          on_goldrush_receipt_click={(e: { tx_hash: any; })=>{
+            window.open(`https://goldrush-tx-receipt-ui.vercel.app/tx/${params.chain}/${e.tx_hash}/`, '_blank');
+          }}
         />
         <Flex onClick={()=>{
           router.back()
